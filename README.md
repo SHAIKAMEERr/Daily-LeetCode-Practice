@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
