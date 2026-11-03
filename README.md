@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0087-scramble-string](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0087-scramble-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
