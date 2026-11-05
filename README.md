@@ -32,9 +32,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0087-scramble-string) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
