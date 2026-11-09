@@ -83,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
