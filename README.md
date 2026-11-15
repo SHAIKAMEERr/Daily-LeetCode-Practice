@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0526-beautiful-arrangement](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0526-beautiful-arrangement) |
 | [1223-dice-roll-simulation](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1223-dice-roll-simulation) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2402-meeting-rooms-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2402-meeting-rooms-iii) |
 | [2747-count-zero-request-servers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
