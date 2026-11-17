@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0087-scramble-string](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0087-scramble-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-dice-roll-simulation](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1223-dice-roll-simulation) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
