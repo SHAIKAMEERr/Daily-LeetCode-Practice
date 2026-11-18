@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [2402-meeting-rooms-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2402-meeting-rooms-iii) |
 | [2747-count-zero-request-servers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
+| [3713-longest-balanced-substring-i](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3713-longest-balanced-substring-i](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
+| [3713-longest-balanced-substring-i](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Memoization
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0526-beautiful-arrangement) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
