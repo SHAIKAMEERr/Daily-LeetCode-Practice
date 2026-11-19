@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2402-meeting-rooms-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2402-meeting-rooms-iii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2402-meeting-rooms-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2402-meeting-rooms-iii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
 ## Graph Theory
 |  |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
