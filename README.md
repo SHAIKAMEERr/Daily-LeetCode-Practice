@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0526-beautiful-arrangement](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0526-beautiful-arrangement) |
 | [0566-reshape-the-matrix](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [1223-dice-roll-simulation](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1223-dice-roll-simulation) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -188,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
