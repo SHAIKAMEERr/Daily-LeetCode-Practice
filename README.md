@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0198-house-robber) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0198-house-robber) |
 | [0526-beautiful-arrangement](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0526-beautiful-arrangement) |
 | [1223-dice-roll-simulation](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1223-dice-roll-simulation) |
