@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1572-matrix-diagonal-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2402-meeting-rooms-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2402-meeting-rooms-iii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1572-matrix-diagonal-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 ## Counting
 |  |
 | ------- |
