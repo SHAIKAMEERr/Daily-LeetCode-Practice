@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2747-count-zero-request-servers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3713-longest-balanced-substring-i](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
