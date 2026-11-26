@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0198-house-robber) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3934-smallest-unique-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
