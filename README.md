@@ -143,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
