@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0087-scramble-string](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0087-scramble-string) |
+| [0940-distinct-subsequences-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0233-number-of-digit-one) |
 | [0526-beautiful-arrangement](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0526-beautiful-arrangement) |
+| [0940-distinct-subsequences-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1223-dice-roll-simulation](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1223-dice-roll-simulation) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
