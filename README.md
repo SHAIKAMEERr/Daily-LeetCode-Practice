@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0526-beautiful-arrangement) |
 | [0566-reshape-the-matrix](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0605-can-place-flowers) |
+| [0941-valid-mountain-array](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0941-valid-mountain-array) |
 | [1223-dice-roll-simulation](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1223-dice-roll-simulation) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
