@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1631-path-with-minimum-effort](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2402-meeting-rooms-iii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1631-path-with-minimum-effort](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [3934-smallest-unique-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1631-path-with-minimum-effort](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2402-meeting-rooms-iii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/2402-meeting-rooms-iii) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
@@ -160,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1572-matrix-diagonal-sum](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -276,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/3934-smallest-unique-subarray) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/SHAIKAMEERr/Daily-LeetCode-Practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
